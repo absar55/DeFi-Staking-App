@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LaibaProject.iml" filepath="$PROJECT_DIR$/.idea/modules/LaibaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LaibaProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LaibaProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1643026349/LaibaProject.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/1643026349/LaibaProject.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2036723760/LaibaProject.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/2036723760/LaibaProject.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1718489809/LaibaProject.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/-1718489809/LaibaProject.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/820255642/LaibaProject.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/820255642/LaibaProject.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1506778752/LaibaProject.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/1506778752/LaibaProject.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2127980847/LaibaProject.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/2127980847/LaibaProject.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-378769379/LaibaProject.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-378769379/LaibaProject.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1948249349/LaibaProject.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/1948249349/LaibaProject.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2045998962/LaibaProject.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/2045998962/LaibaProject.expo-splash-screen.iml" />
+    </modules>
+  </component>
+</project>
